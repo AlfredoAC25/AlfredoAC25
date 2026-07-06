@@ -26,15 +26,6 @@ I enjoy working with backend technologies, databases, and modern web development
   <img src="https://skillicons.dev/icons?i=html,css,js,vue,git,postman" />
 </p>
 
----
-
-## ⚡️ GitHub Stats
-
-[![AlfredoAC25's GitHub stats](https://github-stats-extended.vercel.app/api?username=alfredoac25)](https://github.com/stats-organization/github-stats-extended)
-
-[![AlfredoAC25's GitHub stats](https://github-stats-extended.vercel.app/api/top-langs?username=alfredoac25&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=alfredoac25&langs_count=4&theme=dark)
-
----
 
 ## 🚀 About Me
 
