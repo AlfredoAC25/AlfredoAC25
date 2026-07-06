@@ -30,14 +30,9 @@ I enjoy working with backend technologies, databases, and modern web development
 
 ## ⚡️ GitHub Stats
 
-<br>
-
 [![AlfredoAC25's GitHub stats](https://github-stats-extended.vercel.app/api?username=alfredoac25)](https://github.com/stats-organization/github-stats-extended)
 
-<div align=center>
-
-</div>
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=alfredoac25&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=alfredoac25&langs_count=4&theme=dark)
 
 ---
 
@@ -46,7 +41,7 @@ I enjoy working with backend technologies, databases, and modern web development
 * 💻 Backend and web development enthusiast
 * 🧠 Always learning and improving my skills
 * 🛠️ Interested in building efficient and maintainable software
-* 📚 Currently working with Java, Go, Laravel, SQL and NoSQL databases
+* 📚 Currently working with Laravel, Vue and SQL databases
 
 ---
 
