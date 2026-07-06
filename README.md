@@ -32,7 +32,7 @@ I enjoy working with backend technologies, databases, and modern web development
 
 [![AlfredoAC25's GitHub stats](https://github-stats-extended.vercel.app/api?username=alfredoac25)](https://github.com/stats-organization/github-stats-extended)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=alfredoac25&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=alfredoac25&langs_count=4&theme=dark)
+[![AlfredoAC25's GitHub stats](https://github-stats-extended.vercel.app/api/top-langs?username=alfredoac25&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=alfredoac25&langs_count=4&theme=dark)
 
 ---
 
