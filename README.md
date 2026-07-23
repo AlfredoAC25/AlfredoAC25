@@ -1,12 +1,12 @@
-# Hi there, I'm Alfredo 👋
+# Hi there, I'm Alfredo
 
 I'm a software developer focused on building clean, scalable, and practical solutions.
 I enjoy working with backend technologies, databases, and modern web development tools.
 
 ---
 
-* 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
-* 💬 Ask me about **Java, Go, Laravel, Vue.js, SQL, NoSQL... or anything [here](https://github.com/AlfredoAC25/AlfredoAC25/issues)**
+* I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
+* Ask me about **Java, Go, Laravel, Vue.js, SQL, NoSQL... or anything [here](https://github.com/AlfredoAC25/AlfredoAC25/issues)**
 
 <br>
 
@@ -27,15 +27,15 @@ I enjoy working with backend technologies, databases, and modern web development
 </p>
 
 
-## 🚀 About Me
+## About Me
 
-* 💻 Backend and web development enthusiast
-* 🧠 Always learning and improving my skills
-* 🛠️ Interested in building efficient and maintainable software
-* 📚 Currently working with Laravel, Vue and SQL databases
+* Backend and web development enthusiast
+* Always learning and improving my skills
+* Interested in building efficient and maintainable software
+* Currently working with Laravel and Vue
 
 ---
 
-## 📫 Contact
+## Contact
 
 Feel free to connect with me or check out my repositories.
