@@ -16,7 +16,7 @@ I enjoy working with backend technologies, databases, and modern web development
 
 <hr>
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <br>
 
